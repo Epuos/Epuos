@@ -2,6 +2,8 @@
 
 I'm epuos but like you can call me whatever lmao.
 
+![MUAH](jkbhed.gif)
+
 - I'm so useful and hot and I love A space for the unbound 😔😔😔
 - brian x vivien for life (🥀❌🪫)
 
