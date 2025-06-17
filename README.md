@@ -2,7 +2,7 @@
 
 I'm epuos but like you can call me whatever lmao.
 
-![MUAH](https://i.pinimg.com/originals/61/2b/60/612b60e044d1563d9b5aa89a40456a19.gif)
+![jkbhed](https://github.com/user-attachments/assets/7da5a431-795f-4f31-87a2-ee72913b099d)
 
 - I'm so useful and hot and I love A space for the unbound 😔😔😔
 - brian x vivien for life (🥀❌🪫)
