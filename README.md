@@ -2,10 +2,10 @@
 
 I'm so useful 
 
-##What I'm doing right now
+## What I'm doing right now
 - After who? after us
 - ~~Discord~~ Euphoria
-##What I did
+## What I did
 - Ugmania (2021-2024)
 - Polygon Duelist 2 (2024)
 <!--
