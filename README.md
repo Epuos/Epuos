@@ -1,12 +1,13 @@
 <h1 align = center>Hello sigmas👋</h1>
-
+<div align-items = center>
 I'm epuos but like you can call me whatever lmao.
 
 <img src = "jkbhed.gif" align = center alt = "MUAH">
 
 - I'm so useful (not) and I love Until then 😔😔😔
 - brian x vivien for life (🥀❌🪫)
-
+  
+</div>
 ### What I'm doing right now 🥀🥀🥀🥀
 > - After who? after us (2025 - now)
 > - ~~Discord~~ Euphoria (2025 - now)
