@@ -9,6 +9,7 @@
 - brian x vivien for life (🥀❌🪫)
 </div>
 <h2 align = center></h2>
+
 ### What I'm doing right now 🥀🥀🥀🥀
 > - After who? after us (2025 - now)
 > - ~~Discord~~ Euphoria (2025 - now)
