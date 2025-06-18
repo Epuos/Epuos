@@ -23,7 +23,7 @@
 </blockquote>
 </div>
 
-<div align = right float = right>
+<div>
 <h3>What I did 🥶🥶🥶</h3>
 <blockquote>
 <ul>
@@ -32,7 +32,9 @@
 </ul>
 </blockquote>
 </div>
-
+<div align = right>
+![bruuuuuhhhshafd](https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8)
+</div>
 **Contact me via idk**
 <br>
 ![jjjj](https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa)
