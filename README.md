@@ -15,8 +15,8 @@
 
 <div style="display: flex; align-items: flex-start">
 
-  <div float = right>
-    <img src="https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8" alt="bruuuuuhhhshafd" width="300">
+  <div >
+    <img float = right src="https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8" alt="bruuuuuhhhshafd" width="300">
   </div>
 
   <div>
