@@ -2,7 +2,7 @@
 
 I'm epuos but like you can call me whatever lmao.
 
-![jkbhed](https://github.com/user-attachments/assets/7da5a431-795f-4f31-87a2-ee72913b099d)
+<img src = "jkbhed.gif" align = center alt = "MUAH">
 
 - I'm so useful (not) and I love Until then 😔😔😔
 - brian x vivien for life (🥀❌🪫)
