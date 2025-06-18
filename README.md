@@ -1,4 +1,4 @@
-# Hello sigmas👋
+<h1 align = center>Hello sigmas👋</h1>
 
 I'm epuos but like you can call me whatever lmao.
 
