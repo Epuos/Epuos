@@ -4,7 +4,7 @@ I'm epuos but like you can call me whatever lmao.
 
 ![jkbhed](https://github.com/user-attachments/assets/7da5a431-795f-4f31-87a2-ee72913b099d)
 
-- I'm so useful and hot and I love A space for the unbound 😔😔😔
+- I'm so useful (not) and I love Until then 😔😔😔
 - brian x vivien for life (🥀❌🪫)
 
 ### What I'm doing right now 🥀🥀🥀🥀
@@ -16,9 +16,10 @@ I'm epuos but like you can call me whatever lmao.
 > - Polygon Duelist 2 (2024)
 
 **Contact me via idk**
+--![jjjj](https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa)
+
+
 <!--
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
