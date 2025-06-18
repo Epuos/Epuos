@@ -1,4 +1,4 @@
-<h1 align="center">Hello sigmas👋</h1>
+<h1 align="center">🪲Hello sigmas🪲</h1>
 
 <p align="center">I'm epuos but like you can call me whatever lmao.</p>
 
@@ -13,13 +13,20 @@
 
 <h2 align="center"></h2>
 
-**What I'm doing right now 🥀🥀🥀🥀**  
-- After who? after us (2025 - now)  
-- ~~Discord~~ Euphoria (2025 - now)  
+<h2>So what can I do? 🤓🤓🤓</h2>
 
-**What I did 🥶🥶🥶**  
-- [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
-- Polygon Duelist 2 (2024) |
+- 3D game modeler
+- C#, Python, barely any js
+- Drawing, concept art-ing, pixel art(sometimes)
+- Photography
+
+## What I'm doing right now 🥀🥀🥀🥀  
+> - After who? **After us** (2025 - now)  
+> - ~~Discord~~ Euphoria (2025 - now)  
+
+## What I did 🥶🥶🥶
+> - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
+> - Polygon Duelist 2 (2024)
 
 <br>
 
