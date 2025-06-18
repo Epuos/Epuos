@@ -1,9 +1,9 @@
 <h1 align = center>Hello sigmas👋</h1>
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
-<div justify-content = center display = block>
-<img src = "jkbhed.gif" width = 50% alt = "MUAH">
-</div>
+<p align="center">
+  <img width="460" height="300" src="jkbhed.gif">
+</p>
 <div align = center>
 - I'm so useful (not) and I love Until then 😔😔😔
 - brian x vivien for life (🥀❌🪫)
@@ -18,6 +18,7 @@
 > - Polygon Duelist 2 (2024)
 
 **Contact me via idk**
+<br>
 --![jjjj](https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa)
 
 
