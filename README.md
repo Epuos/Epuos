@@ -33,7 +33,7 @@
 
 <p align="center">
   <strong>Contact me via idk</strong><br>
-  <img src="https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa" alt="jjjj" width="200">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epuos&show_icons=true&theme=tokyonight&hide_border=true&count_private=False)]  (https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa" alt="jjjj" width="200"><br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epuos&show_icons=true&theme=tokyonight&hide_border=true&count_private=True)]  (https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!---->
