@@ -2,7 +2,7 @@
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
 
-<img src = "jkbhed.gif" align = right alt = "MUAH">
+<img src = "jkbhed.gif" align = center alt = "MUAH">
 
 - I'm so useful (not) and I love Until then 😔😔😔
 - brian x vivien for life (🥀❌🪫)
