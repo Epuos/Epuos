@@ -8,7 +8,7 @@
 - I'm so useful (not) and I love Until then 😔😔😔
 - brian x vivien for life (🥀❌🪫)
 </div>
-<h2 align = center>_</h2>
+<h2 align = center></h2>
 
 ### What I'm doing right now 🥀🥀🥀🥀
 > - After who? after us (2025 - now)
