@@ -2,7 +2,7 @@
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
 <div justify-content = center display = flex>
-<img src = "jkbhed.gif" align = center alt = "MUAH">
+<img src = "jkbhed.gif" width = 50% alt = "MUAH">
 </div>
 <div align = center>
 - I'm so useful (not) and I love Until then 😔😔😔
