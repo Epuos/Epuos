@@ -33,7 +33,9 @@
 </blockquote>
 </div>
 <div align = right>
+  
 ![bruuuuuhhhshafd](https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8)
+
 </div>
 **Contact me via idk**
 <br>
