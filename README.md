@@ -1,6 +1,3 @@
-<style>
-  
-</style>
 <h1 align = center>Hello sigmas👋</h1>
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
@@ -32,7 +29,7 @@
 </ul>
 </blockquote>
 </div>
-<div align = right>
+<div align = right float = right>
   
 ![bruuuuuhhhshafd](https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8)
 
