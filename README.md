@@ -7,6 +7,7 @@
 </p>
 
 <div align="center">
+  (if the images dont show up refresh)
   - I'm so useful (not) and I love Until then 😔😔😔<br>
   - Fav ghibli movie is The wind rises (I dont watch many)<br>
   - brian x vivien for life (🥀❌🪫)
