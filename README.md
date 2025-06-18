@@ -2,7 +2,7 @@
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
 <p align="center">
-  <img width="460" height="300" src="jkbhed.gif">
+  <img width="50%" height="50%" src="jkbhed.gif">
 </p>
 <div align = center>
 - I'm so useful (not) and I love Until then 😔😔😔
@@ -19,7 +19,7 @@
 
 **Contact me via idk**
 <br>
---![jjjj](https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa)
+![jjjj](https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa)
 
 
 <!--
