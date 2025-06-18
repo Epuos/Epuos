@@ -23,7 +23,7 @@
 <h3>What I did 🥶🥶🥶</h3>
 <blockquote>
 <ul>
-  <li src = https://store.steampowered.com/app/2316310/Ugmania/> <a>Ugmania</a> (2021-2024) </li>
+  <li href = "https://store.steampowered.com/app/2316310/Ugmania/"> <a>Ugmania</a> (2021-2024) </li>
   <li> Polygon Duelist 2 (2024)</li>
 </ul>
 </blockquote>
