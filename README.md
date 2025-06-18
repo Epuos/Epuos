@@ -10,18 +10,27 @@
 </div>
 <h2 align = center></h2>
 
-### What I'm doing right now 🥀🥀🥀🥀
-> - After who? after us (2025 - now)
-> - ~~Discord~~ Euphoria (2025 - now)
-### What I did 🥶🥶🥶
-> - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)
-> - Polygon Duelist 2 (2024)
+<h3>What I'm doing right now 🥀🥀🥀🥀</h3>
+<blockquote>
+<ul>
+  <li> After who? after us (2025 - now) </li>
+  <li> <del>Discord</del> Euphoria (2025 - now)</li>
+</ul>
+</blockquote>
+
+<h3>What I did 🥶🥶🥶</h3>
+<blockquote>
+<ul>
+  <li> [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024) </li>
+  <li> Polygon Duelist 2 (2024)</li>
+</ul>
+</blockquote>
 
 **Contact me via idk**
 <br>
 ![jjjj](https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epuos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
