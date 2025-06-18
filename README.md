@@ -1,7 +1,7 @@
 <h1 align = center>Hello sigmas👋</h1>
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
-<div justify-content = center display = flex>
+<div justify-content = center display = block>
 <img src = "jkbhed.gif" width = 50% alt = "MUAH">
 </div>
 <div align = center>
