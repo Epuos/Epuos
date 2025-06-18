@@ -23,7 +23,7 @@
 
 ## My work
 
-<img src = "" width = "200" align = right alt = "Emby01's profile picture">
+<img src = "bruuuuuhhhshafd.gif" width = "50%" align = right alt = "Not Emby01's profile picture">
 
 ### What I'm doing right now 🥀🥀🥀🥀  
 > - After who? **After us** (2025 - now)  
