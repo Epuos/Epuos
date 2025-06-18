@@ -13,7 +13,7 @@
 
 <h2 align="center"></h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start">
 
   <div>
     <img src="https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8" alt="bruuuuuhhhshafd" width="300">
