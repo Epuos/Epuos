@@ -27,7 +27,8 @@
         <li><del>Discord</del> Euphoria (2025 - now)</li>
       </ul>
     </blockquote>
-
+  </div>
+  <div>
     <h3>What I did 🥶🥶🥶</h3>
     <blockquote>
       <ul>
@@ -36,7 +37,6 @@
       </ul>
     </blockquote>
   </div>
-
 </div>
 
 <br>
