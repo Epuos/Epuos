@@ -10,14 +10,14 @@
 </div>
 <h2 align = center></h2>
 <div align = left>
-### What I'm doing right now 🥀🥀🥀🥀
-> - After who? after us (2025 - now)
-> - ~~Discord~~ Euphoria (2025 - now)
+  ### What I'm doing right now 🥀🥀🥀🥀
+  > - After who? after us (2025 - now)
+  > - ~~Discord~~ Euphoria (2025 - now)
 </div>
 <div align = left>
-### What I did 🥶🥶🥶
-> - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)
-> - Polygon Duelist 2 (2024)
+  ### What I did 🥶🥶🥶
+  > - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)
+  > - Polygon Duelist 2 (2024)
 </div>
 **Contact me via idk**
 <br>
