@@ -21,11 +21,15 @@
 - Drawing, concept art-ing, pixel art(sometimes)
 - Photography
 
-## What I'm doing right now 🥀🥀🥀🥀  
+## My work
+
+<img src = "" width = "200" align = right alt = "Emby01's profile picture">
+
+### What I'm doing right now 🥀🥀🥀🥀  
 > - After who? **After us** (2025 - now)  
 > - ~~Discord 2.0~~ Euphoria (2025 - now)  
 
-## What I did 🥶🥶🥶
+### What I did 🥶🥶🥶
 > - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
 > - [Polygon Duelist 2](https://erroneouscreationist.itch.io/polygon-duelist) (2024)
 
