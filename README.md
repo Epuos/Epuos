@@ -13,7 +13,6 @@
 
 <h2 align="center"></h2>
 
-| ![bruuuuuhhhshafd](https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8) | 
 **What I'm doing right now 🥀🥀🥀🥀**  
 - After who? after us (2025 - now)  
 - ~~Discord~~ Euphoria (2025 - now)  
@@ -21,7 +20,6 @@
 **What I did 🥶🥶🥶**  
 - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
 - Polygon Duelist 2 (2024) |
-|:-------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------|
 
 <br>
 
