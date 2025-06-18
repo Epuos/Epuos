@@ -36,7 +36,8 @@
 <br>
 
 <p align="center">
-  <strong>Contact me via idk</strong><br><br>
+  <h2>Contact me via idk</strong></h2> <br><br>
+  
   <img src="https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa" alt="jjjj" height = "200"><br>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epuos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
