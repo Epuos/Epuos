@@ -13,31 +13,15 @@
 
 <h2 align="center"></h2>
 
-<div display: flex>
+| ![bruuuuuhhhshafd](https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8) | 
+**What I'm doing right now 🥀🥀🥀🥀**  
+- After who? after us (2025 - now)  
+- ~~Discord~~ Euphoria (2025 - now)  
 
-  <div >
-    <img float = right src="https://github.com/user-attachments/assets/2f13eb9a-9eea-4b5c-9e4a-c3cfea2633e8" alt="bruuuuuhhhshafd" width="300">
-  </div>
-
-  <div>
-    <h3>What I'm doing right now 🥀🥀🥀🥀</h3>
-    <blockquote>
-      <ul>
-        <li>After who? after us (2025 - now)</li>
-        <li><del>Discord</del> Euphoria (2025 - now)</li>
-      </ul>
-    </blockquote>
-  </div>
-  <div>
-    <h3>What I did 🥶🥶🥶</h3>
-    <blockquote>
-      <ul>
-        <li><a href="https://store.steampowered.com/app/2316310/Ugmania/">Ugmania</a> (2021-2024)</li>
-        <li>Polygon Duelist 2 (2024)</li>
-      </ul>
-    </blockquote>
-  </div>
-</div>
+**What I did 🥶🥶🥶**  
+- [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
+- Polygon Duelist 2 (2024) |
+|:-------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------|
 
 <br>
 
