@@ -1,3 +1,6 @@
+<style>
+  
+</style>
 <h1 align = center>Hello sigmas👋</h1>
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
@@ -10,7 +13,7 @@
 </div>
 <h2 align = center></h2>
 
-<div align = left>
+<div align = left float = left>
 <h3>What I'm doing right now 🥀🥀🥀🥀</h3>
 <blockquote>
 <ul>
@@ -20,7 +23,7 @@
 </blockquote>
 </div>
 
-<div align = right>
+<div align = right float = right>
 <h3>What I did 🥶🥶🥶</h3>
 <blockquote>
 <ul>
