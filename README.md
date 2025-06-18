@@ -9,15 +9,16 @@
 - brian x vivien for life (🥀❌🪫)
 </div>
 <h2 align = center></h2>
-
+<div align = left>
 ### What I'm doing right now 🥀🥀🥀🥀
 > - After who? after us (2025 - now)
 > - ~~Discord~~ Euphoria (2025 - now)
- 
+</div>
+<div align = left>
 ### What I did 🥶🥶🥶
 > - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)
 > - Polygon Duelist 2 (2024)
-
+</div>
 **Contact me via idk**
 <br>
 ![jjjj](https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa)
