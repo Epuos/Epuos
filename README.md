@@ -1,9 +1,9 @@
 <h1 align = center>Hello sigmas👋</h1>
 
 <p align = center>I'm epuos but like you can call me whatever lmao.</p>
-
-<img src = "jkbhed.gif" display = flex justify-content = center align = center alt = "MUAH">
-
+<div justify-content = center display = flex>
+<img src = "jkbhed.gif" align = center alt = "MUAH">
+</div>
 - I'm so useful (not) and I love Until then 😔😔😔
 - brian x vivien for life (🥀❌🪫)
   
