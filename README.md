@@ -10,6 +10,7 @@
 </div>
 <h2 align = center></h2>
 
+<div align = left>
 <h3>What I'm doing right now 🥀🥀🥀🥀</h3>
 <blockquote>
 <ul>
@@ -17,7 +18,9 @@
   <li> <del>Discord</del> Euphoria (2025 - now)</li>
 </ul>
 </blockquote>
+</div>
 
+<div align = right>
 <h3>What I did 🥶🥶🥶</h3>
 <blockquote>
 <ul>
@@ -25,6 +28,7 @@
   <li> Polygon Duelist 2 (2024)</li>
 </ul>
 </blockquote>
+</div>
 
 **Contact me via idk**
 <br>
