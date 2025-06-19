@@ -3,7 +3,7 @@
 <p align="center">I'm epuos but like you can call me whatever lmao.</p>
 
 <p align="center">
-  <img width="50%" height="50%" src="jkbhed.gif">
+  <img height="100%" src="jkbhed.gif">
 </p>
 
 <div align="center">
