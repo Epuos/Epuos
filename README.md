@@ -26,12 +26,12 @@
 <img src = "bruuuuuhhhshafd.gif" width = "50%" align = right alt = "Not Emby01's profile picture">
 
 ### What I'm doing right now 🥀🥀🥀🥀  
-> - After who? **After us** (2025 - now)  
-> - ~~Discord 2.0~~ Euphoria (2025 - now)  
+> - nothin Lmao im a lazy bum  
 
 ### What I did 🥶🥶🥶
 > - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
 > - [Polygon Duelist 2](https://erroneouscreationist.itch.io/polygon-duelist) (2024)
+> - After us (2025) 
 
 <br>
 
