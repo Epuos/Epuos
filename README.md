@@ -11,6 +11,7 @@
   - Fav ghibli movie is The wind rises (I dont watch many)<br>
   - brian x vivien for life (🥀❌🪫)
 </div>
+<br><br>
 
 <img src = "bruuuuuhhhshafd.gif" width = "50%" align = right alt = "Not Emby01's profile picture">
 
