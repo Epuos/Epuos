@@ -12,17 +12,6 @@
   - brian x vivien for life (🥀❌🪫)
 </div>
 
-<h2 align="center"></h2>
-
-<h2>So what can I do? 🤓🤓🤓</h2>
-
-- 3D game modeler 
-- C#, Python, barely any js
-- Drawing, concept art-ing, pixel art(sometimes)
-- Photography
-
-## My work
-
 <img src = "bruuuuuhhhshafd.gif" width = "50%" align = right alt = "Not Emby01's profile picture">
 
 ### What I'm doing right now 🥀🥀🥀🥀  
