@@ -16,7 +16,7 @@
 <img src = "bruuuuuhhhshafd.gif" width = "50%" align = right alt = "Not Emby01's profile picture">
 
 ### What I'm doing right now 🥀🥀🥀🥀  
-> - nothin Lmao im a lazy bum  
+> - Fact or Hazard 
 
 ### What I did 🥶🥶🥶
 > - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
