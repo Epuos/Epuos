@@ -1,36 +1,9 @@
-<h1 align="center">🪲Hello sigmas🪲</h1>
+<h1 align="center">Hello!</h1>
 
-<p align="center">I'm epuos but like you can call me whatever lmao.</p>
-
-<p align="center">
-  <img height="100%" src="jkbhed.gif">
-</p>
-
-<div align="center">
-  - I'm so useful (not) and I love Until then 😔😔😔<br>
-  - Fav ghibli movie is The wind rises (I dont watch many)<br>
-  - brian x vivien for life (🥀❌🪫)
-</div>
-<br><br>
-
-<img src = "bruuuuuhhhshafd.gif" width = "50%" align = right alt = "Not Emby01's profile picture">
-
-### What I'm doing right now 🥀🥀🥀🥀  
+### What I'm doing right now
 > - Fact or Hazard 
 
-### What I did 🥶🥶🥶
+### What I did
 > - [Ugmania](https://store.steampowered.com/app/2316310/Ugmania/) (2021-2024)  
 > - [Polygon Duelist 2](https://erroneouscreationist.itch.io/polygon-duelist) (2024-2024)
 > - After us (2025-2025) 
-
-<br>
-
-<p align="center">
-  <h2>Contact me via idk</strong></h2> <br><br>
-  
-  <img src="https://github.com/user-attachments/assets/fcdc7f0f-3b7a-4673-a514-f41c965d61aa" alt="jjjj" height = "200"><br>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epuos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</p>
-<!---->
